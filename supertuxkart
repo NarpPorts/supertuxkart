@@ -1,0 +1,3 @@
+#!/bin/bash
+
+bash "/usr/bitey/software/supertuxkart/run_game.sh"
