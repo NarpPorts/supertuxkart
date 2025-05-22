@@ -1,6 +1,6 @@
 ![Logo](media/stk.png)
 
-# SuperTuxKart 1.4
+# 🏎️ SuperTuxKart 1.4
 **Bitey Ports Package 🧳**   
 Note: This does not provide any of the original code. This is a binary package, for the source code, [click here](https://github.com/supertuxkart/stk-code).
 
